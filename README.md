@@ -1,2 +1,19 @@
-# Hangman-Game
-A classic Hangman game implementation in Python. Test your word-guessing skills with this console-based game. The project includes the main game logic (Hangman_Game.py), ASCII art for visual representation (art.py), and a list of words for an engaging gameplay experience (words.py).
+# Hangman Game
+
+A simple Hangman game written in Python.
+
+## How to Play
+
+- Clone the repository to your local machine.
+- Run `Hangman_Game.py` in a Python environment.
+
+## Files
+
+- `Hangman_Game.py`: Main game logic.
+- `art.py`: ASCII art used in the game.
+- `words.py`: List of words for the game.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
