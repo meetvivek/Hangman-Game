@@ -6,6 +6,7 @@ A simple Hangman game written in Python.
 
 - Clone the repository to your local machine.
 - Run `Hangman_Game.py` in a Python environment.
+- You can go to this like and run the program : https://replit.com/@meet-vivek/HangmanGame
 
 ## Files
 
